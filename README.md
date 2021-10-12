@@ -1,2 +1,2 @@
 # AllLifeBank-Classification
-Classification with Decision Trees and Logistic Regression using Python
+Classification with using Python. Logistic Regression, Multicollinearity, Finding optimal threshold using AUC-ROC Curve, Decision Trees, Pruning
